@@ -1,7 +1,7 @@
 ## Education Experience 
 
 - I had attended Green River College for two years. In college, I had learned the basics of botany, cell, and animal biology. I also learned organic chemistry by taking three sequential courses. For mathematics, I finished three calculus courses in this college.                       
-                                                                                  (09/20015-06/2017)
+                                                                                  (09/2015-06/2017)
 
 - I started to attend Umich Ann Arbor in 2018 winter. The courses that I took mainly focused on the four fields: Maths, Stats, Computer Science, and Biology. I learned program language C++, R, linear algebra, probability theory, and metabolic pathway in human beings during my undergraduate program. I also took some classes about astronomy, German literature, and central European film.                                                                                        
                                                      (01/2018-06/2019)
