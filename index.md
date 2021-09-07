@@ -39,11 +39,8 @@
 
 ## Skills 
 - Python
-
 - R
-
 - Adobe Illustrator
-
 - C++
 
 ## Activities
