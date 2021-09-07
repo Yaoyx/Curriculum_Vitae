@@ -1,20 +1,24 @@
 ## Education Experience 
 
 - I had attended Green River College for two years. In college, I had learned the basics of botany, cell, and animal biology. I also learned organic chemistry by taking three sequential courses. For mathematics, I finished three calculus courses in this college.                       
-(09/20015-06/2017)
+                                                                                  (09/20015-06/2017)
 
 - I started to attend Umich Ann Arbor in 2018 winter. The courses that I took mainly focused on the four fields: Maths, Stats, Computer Science, and Biology. I learned program language C++, R, linear algebra, probability theory, and metabolic pathway in human beings during my undergraduate program. I also took some classes about astronomy, German literature, and central European film.                                                                                        
-(01/2018-06/2019)
+                                                     (01/2018-06/2019)
 
 - I became a Master student in 2019 Fall through the AMDP program offered by Umich. With this program, I enhanced my programming ability in the machine learning field and knowledge in computational genomics. Besides, I had taken some courses regarding computational neuroscience and NLP on health data.                                                                
-(09/2019-04/2020)
+                                                                                                                            (09/2019-04/2020)
 
 ## Research Experience (2019-2021)
 
 - Tumor heterogeneity. Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
+
 - Tumor heterogeneity. We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
+
 - Chemical properties transformation. Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound.
+
 - Drug response prediction. Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model.
+
 - Gene set enrichment analysis. Finding out biological pathways in mice that are associated with several drug treatments.
 
 ## Research publications
@@ -47,25 +51,4 @@
 - I had done two more volunteer activities before, one was helping cleaners clean the ground of our community, and another one was assisting a public service organization to distribute free tea to people in summer.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
