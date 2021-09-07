@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: CV
-author: "Yao Xiao"
-email: "yxiaoy@umich.edu"
+description: "Name: Yao Xiao Email: yxiaoy@umich.edu"
 github:
   is_project_page: false
