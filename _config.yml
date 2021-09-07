@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 title: CV
-navbar-links:
-  About Me: "aboutme"
 
 description: "Name: Yao Xiao"
-social-network-links:
-  email: "yxiaoy@umich.edu"
-  Phone: "734-846-8703"
+email: "yxiaoy@umich.edu"
+Phone: "734-846-8703"
