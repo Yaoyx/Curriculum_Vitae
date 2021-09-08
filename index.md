@@ -31,16 +31,16 @@ list_title: ' '
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 
 ## WORKING EXPERIENCE
-- I have worked in a bioinformatics lab at the University of Michigan since 2018 June. Currently, I am a research associator in this lab.
+- I have worked in a bioinformatics lab at the University of Michigan since 2018 June. Currently, I am a research associator in this lab.                       
 (04/2020 - Present)
 
-- I had been an English tutor in an educational institution called Kid Castle for three months.
+- I had been an English tutor in an educational institution called Kid Castle for three months.                       
 (09/2017 - 12/2017)
 
-- I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.
+- I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.                       
 (06/2017 - 07/2017)
 
-- I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.
+- I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
 (08/2016 - 09/2016)
 
 ## SKILLS 
