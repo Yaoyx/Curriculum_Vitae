@@ -26,6 +26,7 @@ description: > # this means to ignore newlines until "baseurl:"
   FastClone Github: https://github.com/GuanLab/FastClone_GuanLab
 
 github_username:  Yaoyx
+linkedin_username: yao-xiao-6a9530192
 
 markdown: kramdown
 header_pages:
