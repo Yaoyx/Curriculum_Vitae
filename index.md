@@ -1,3 +1,13 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+
+
 ## EDUCATION 
 
 - University of Michigan at Ann Arbor. Master’s degree in Bioinformatics                                               
@@ -48,6 +58,8 @@
 - When I was in the college, I also found a club called Food Recipe Club with my friends. The club's purpose was to help members learn about other countries' food cultures and have better diets.
 
 - I had done two more volunteer activities before, one was helping cleaners clean the ground of our community, and another one was assisting a public service organization to distribute free tea to people in summer.
+
+---
 
 
 
