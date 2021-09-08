@@ -6,7 +6,7 @@ title: ''
 ## **EDUCATION** 
 
 - **University of Michigan**, Ann Arbor, MI. Master’s degree in Bioinformatics.                                               
-<pre>                                                                        (09/2019 - 04/2020)</pre>
+<space><space><space><space><space><space><space><space><space><space><space>(09/2019 - 04/2020)
 
 - **University of Michigan**, Ann Arbor, MI. Bachelor’s degree in Life Science Informatics.                                                                                       
                                                                         (01/2018 - 06/2019)
