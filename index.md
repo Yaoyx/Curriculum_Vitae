@@ -36,8 +36,7 @@ title: ''
 ## **WORKING EXPERIENCE**
 ---
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-- Currently, I am a research associator in this lab.                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * sCurrently, I am a research associator in this lab.                       
 <p style='text-align: right;'> (04/2020 - Present) </p>
 
 **Kid Castle,** Wenzhou, Zhejiang, China. <br />
