@@ -36,19 +36,19 @@ title: ''
 ## **WORKING EXPERIENCE**
 ---
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI. 
-- Currently, I am a research associator in this lab.                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Currently, I am a research associator in this lab.                       
 <p style='text-align: right;'> (04/2020 - Present) </p>
 
 **Kid Castle,** Wenzhou, Zhejiang, China. 
-- I had been an English tutor in an educational institution called Kid Castle for three months.                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I had been an English tutor in an educational institution called Kid Castle for three months.                       
 <p style='text-align: right;'> (09/2017 - 12/2017) </p>
 
 **Zhejiang Dongou Diagnostic Reagent Limited Company,** Wenzhou, Zhejiang, China. 
-- I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.                       
 <p style='text-align: right;'> (06/2017 - 07/2017) </p>
 
 **Youshare,** Hangzhou, Zhejiang, China. 
-- I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
 <p style='text-align: right;'> (08/2016 - 09/2016) </p>
 
 
