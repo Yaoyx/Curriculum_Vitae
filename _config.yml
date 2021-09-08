@@ -25,6 +25,9 @@ description: > # this means to ignore newlines until "baseurl:"
 
 github_username:  Yaoyx
 
+header_pages:
+ - index.md
+
 # Build settings
 theme: minima
 plugins:
