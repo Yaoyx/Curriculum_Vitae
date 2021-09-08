@@ -16,7 +16,7 @@ title: ''
 
 
 ## **RESEARCH EXPERIENCE (2019 - 2021)**
-
+---
 - Tumor heterogeneity. Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
 
 - Tumor heterogeneity. We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
@@ -28,9 +28,11 @@ title: ''
 - Gene set enrichment analysis. Finding out biological pathways in mice that are associated with several drug treatments.
 
 ## **PUBLICATIONS**
+---
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 
 ## **WORKING EXPERIENCE**
+---
 - I have worked in a bioinformatics lab at the University of Michigan since 2018 June. Currently, I am a research associator in this lab.                       
 <p style='text-align: right;'> (04/2020 - Present) </p>
 
@@ -44,10 +46,12 @@ title: ''
 <p style='text-align: right;'> (08/2016 - 09/2016) </p>
 
 ## **SKILLS** 
+---
 - Computer: Python, R, C++, Adobe Illustrator, Docker
 - Language: Chinese, English
 
 ## **ACTIVITIES**
+---
 - I had a chance to be a volunteer in a high school summer campaign. I was in charge of student life and recording their activities.
 
 - When I was in the college, I also found a club called Food Recipe Club with my friends. The club's purpose was to help members learn about other countries' food cultures and have better diets.
