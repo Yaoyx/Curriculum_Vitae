@@ -38,6 +38,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: artemsheludko/flexton
+remote_theme: kssim/ap
 
 
