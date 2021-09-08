@@ -55,8 +55,9 @@ title: ''
 
 ## **SKILLS** 
 ---
-Computer: Python, R, C++, Adobe Illustrator, Docker
-Language: Chinese, English
+**Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
+**Language:** Chinese, English <br />
+**Instruments:** Tenor saxophone, Guitar
 
 
 ## **ACTIVITIES**
