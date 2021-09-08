@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Yao Xiao's CV"
+title: "Yao Xiao"
 author: "Yao Xiao"
 copyright: "Yao Xiao"
 email: yxiaoy@umich.edu
@@ -38,6 +38,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+remote_theme: artemsheludko/flexton
 
 
