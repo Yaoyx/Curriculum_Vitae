@@ -1,3 +1,8 @@
+---
+layout: home
+list_title: ' '
+---
+
 ## EDUCATION 
 
 - University of Michigan at Ann Arbor. Master’s degree in Bioinformatics                                               
