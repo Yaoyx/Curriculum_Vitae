@@ -1,13 +1,3 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
-
-
 ## EDUCATION 
 
 - University of Michigan at Ann Arbor. Master’s degree in Bioinformatics                                               
@@ -59,7 +49,7 @@ layout: home
 
 - I had done two more volunteer activities before, one was helping cleaners clean the ground of our community, and another one was assisting a public service organization to distribute free tea to people in summer.
 
----
+
 
 
 
