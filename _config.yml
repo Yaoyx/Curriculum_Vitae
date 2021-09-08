@@ -28,9 +28,6 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  Yaoyx
 linkedin_username: yao-xiao-6a9530192
 
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
   
 header_pages:
  - index.md
