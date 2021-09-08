@@ -23,7 +23,7 @@ email: yxiaoy@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   FastClone Github: https://github.com/GuanLab/FastClone_GuanLab
 header_pages:
-  - index.md
+  - CV.md
 github_username:  Yaoyx
 
 # Build settings
