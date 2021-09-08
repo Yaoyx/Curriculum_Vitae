@@ -1,6 +1,6 @@
 ---
-layout: no-title-post
-title: 'CV'
+layout: home
+title: ''
 ---
 
 ## EDUCATION 
