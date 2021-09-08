@@ -5,14 +5,14 @@ title: ''
 
 ## **EDUCATION** 
 
-- **University of Michigan**, Ann Arbor, MI. Master’s degree in Bioinformatics                                               
-(09/2019 - 04/2020)
+- **University of Michigan**, Ann Arbor, MI. Master’s degree in Bioinformatics.                                               
+                                                                        (09/2019 - 04/2020)
 
 - **University of Michigan**, Ann Arbor, MI. Bachelor’s degree in Life Science Informatics.                                                                                       
-(01/2018 - 06/2019)
+                                                                        (01/2018 - 06/2019)
 
 - **Green River College**, Auburn, WA.                       
-(09/2015 - 06/2017)
+                                                                        (09/2015 - 06/2017)
 
 
 ## **RESEARCH EXPERIENCE (2019 - 2021)**
@@ -32,16 +32,16 @@ title: ''
 
 ## **WORKING EXPERIENCE**
 - I have worked in a bioinformatics lab at the University of Michigan since 2018 June. Currently, I am a research associator in this lab.                       
-(04/2020 - Present)
+                                                                                                                                        (04/2020 - Present)
 
 - I had been an English tutor in an educational institution called Kid Castle for three months.                       
-(09/2017 - 12/2017)
+                                                                                                                                        (09/2017 - 12/2017)
 
 - I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.                       
-(06/2017 - 07/2017)
+                                                                                                                                        (06/2017 - 07/2017)
 
 - I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
-(08/2016 - 09/2016)
+                                                                                                                                        (08/2016 - 09/2016)
 
 ## **SKILLS** 
 - Computer: Python, R, C++, Adobe Illustrator, Docker
