@@ -1,6 +1,6 @@
 ---
 layout: page
-list_title: ' '
+title: 'CV'
 ---
 
 ## EDUCATION 
