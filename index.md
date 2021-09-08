@@ -5,7 +5,7 @@ list_title: ' '
 
 ## EDUCATION 
 
-- University of Michigan at Ann Arbor. Master’s degree in Bioinformatics                                               
+- **University of Michigan**, Ann Arbor, MI. Master’s degree in Bioinformatics                                               
 (09/2019 - 04/2020)
 
 - University of Michigan at Ann Arbor. Bachelor’s degree in Life Science Informatics.                                                                                       
