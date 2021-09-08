@@ -3,7 +3,7 @@ layout: home
 title: ''
 ---
 
-## EDUCATION 
+## **EDUCATION** 
 
 - **University of Michigan**, Ann Arbor, MI. Master’s degree in Bioinformatics                                               
 (09/2019 - 04/2020)
@@ -15,7 +15,7 @@ title: ''
 (09/2015 - 06/2017)
 
 
-## RESEARCH EXPERIENCE (2019 - 2021)
+## **RESEARCH EXPERIENCE (2019 - 2021)**
 
 - Tumor heterogeneity. Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
 
@@ -27,10 +27,10 @@ title: ''
 
 - Gene set enrichment analysis. Finding out biological pathways in mice that are associated with several drug treatments.
 
-## PUBLICATIONS
+## **PUBLICATIONS**
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 
-## WORKING EXPERIENCE
+## **WORKING EXPERIENCE**
 - I have worked in a bioinformatics lab at the University of Michigan since 2018 June. Currently, I am a research associator in this lab.                       
 (04/2020 - Present)
 
@@ -43,11 +43,11 @@ title: ''
 - I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
 (08/2016 - 09/2016)
 
-## SKILLS 
+## **SKILLS** 
 - Computer: Python, R, C++, Adobe Illustrator, Docker
 - Language: Chinese, English
 
-## ACTIVITIES
+## **ACTIVITIES**
 - I had a chance to be a volunteer in a high school summer campaign. I was in charge of student life and recording their activities.
 
 - When I was in the college, I also found a club called Food Recipe Club with my friends. The club's purpose was to help members learn about other countries' food cultures and have better diets.
