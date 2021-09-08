@@ -27,9 +27,11 @@ title: ''
 
 - Gene set enrichment analysis. Finding out biological pathways in mice that are associated with several drug treatments.
 
+
 ## **PUBLICATIONS**
 ---
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
+
 
 ## **WORKING EXPERIENCE**
 ---
@@ -45,10 +47,12 @@ title: ''
 - I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
 <p style='text-align: right;'> (08/2016 - 09/2016) </p>
 
+
 ## **SKILLS** 
 ---
 - Computer: Python, R, C++, Adobe Illustrator, Docker
 - Language: Chinese, English
+
 
 ## **ACTIVITIES**
 ---
