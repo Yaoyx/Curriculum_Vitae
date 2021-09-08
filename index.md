@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 'CV'
+header: none
 ---
 
 ## EDUCATION 
