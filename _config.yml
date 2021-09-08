@@ -1,10 +1,18 @@
 theme: minima
-title: Yao Xiao
+title: "Yao Xiao's CV"
+
 author:
   name: Yao Xiao
   email: yxiaoy@umich.edu
+
+minima:
+  social_links:
+    linkedin: linkedin.com/in/yao-xiao-6a9530192
+    github:  Yaoyx
+
 description: |
   FastClone Github: https://github.com/GuanLab/FastClone_GuanLab
-github:
-  is_project_page: false
 
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
