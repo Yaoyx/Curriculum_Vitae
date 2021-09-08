@@ -18,25 +18,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Yao Xiao"
-author: "Yao Xiao"
-email: yxiaoy@umich.edu
-description: > # this means to ignore newlines until "baseurl:"
-  FastClone Github: https://github.com/GuanLab/FastClone_GuanLab
+markdown: kramdown
 
-github_username:  Yaoyx
-linkedin_username: yao-xiao-6a9530192
+# Settings for minima theme
+
+# title: "Yao Xiao's CV"
+# author: "Yao Xiao"
+# email: yxiaoy@umich.edu
+# description: > # this means to ignore newlines until "baseurl:"
+# FastClone Github: https://github.com/GuanLab/FastClone_GuanLab
+# github_username:  Yaoyx
+# linkedin_username: yao-xiao-6a9530192
+
+
+#Settings for ap theme
+title: "Y. X."
+
+author:
+  name: Yao Xiao
+  desc: CV
+  email: yxiaoy@umich.edu
+
+social:
+  email: true
+  github: Yaoyx
+  linkedin: https://www.linkedin.com/in/yao-xiao-6a9530192/
+
+
 
   
 header_pages:
  - index.md
 
+
 # Build settings
-# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
+# theme: minima
 remote_theme: kssim/ap
 
 
