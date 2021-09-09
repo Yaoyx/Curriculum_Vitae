@@ -15,7 +15,7 @@ title: ''
 <p style='text-align: right;'> Sep. 2015 – June 2017 </p>
 
 
-## **RESEARCH EXPERIENCE (2019 - 2021)**
+## **RESEARCH EXPERIENCE**
 ---
 **Tumor heterogeneity** <br />
 - We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
