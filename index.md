@@ -44,6 +44,13 @@ title: ''
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 
 
+## **SKILLS** 
+---
+**Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
+**Language:** Chinese, English <br />
+**Instruments:** Tenor saxophone, Guitar
+
+
 ## **WORKING EXPERIENCE**
 ---
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI <br />
@@ -65,13 +72,6 @@ title: ''
 - Introduced Yourshare’s health care products to new customers
 - Assisted manager in arranging product conference                  
 <p style='text-align: right;'> Aug. 2016 – Sep. 2016 </p>
-
-
-## **SKILLS** 
----
-**Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
-**Language:** Chinese, English <br />
-**Instruments:** Tenor saxophone, Guitar
 
 
 ## **ACTIVITIES**
