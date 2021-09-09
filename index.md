@@ -5,52 +5,66 @@ title: ''
 
 ## **EDUCATION** 
 ---
-**University of Michigan,** Ann Arbor, MI. Master’s degree in Bioinformatics.                                               
-<p style='text-align: right;'> (09/2019 - 04/2020) </p>
+**University of Michigan,** Ann Arbor, MI. Master’s degree in Bioinformatics                                               
+<p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
-**University of Michigan,** Ann Arbor, MI. Bachelor’s degree in Life Science Informatics.                                                                                       
-<p style='text-align: right;'> (01/2018 - 06/2019) </p>
+**University of Michigan,** Ann Arbor, MI. Bachelor’s degree in Life Science Informatics                                                                                      
+<p style='text-align: right;'> Jan. 2018 – June 2019 </p>
 
-**Green River College,** Auburn, WA.                       
-<p style='text-align: right;'> (09/2015 - 06/2017) </p>
+**Green River College,** Auburn, WA                       
+<p style='text-align: right;'> Sep. 2015 – June 2017 </p>
 
 
 ## **RESEARCH EXPERIENCE (2019 - 2021)**
 ---
-**Tumor heterogeneity.** Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
+**Tumor heterogeneity** <br />
+- We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
+<p style='text-align: right;'> 2020 – Present </p>
 
-**Tumor heterogeneity.** We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
+**Chemical properties transformation** <br />
+- Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound.
+<p style='text-align: right;'> 2020 – Present </p>
 
-**Chemical properties transformation.** Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound.
+**Drug response prediction** <br />
+- Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model.
+<p style='text-align: right;'> 2020 </p>
 
-**Drug response prediction.** Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model.
+**Tumor heterogeneity** <br />
+- Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
+<p style='text-align: right;'> 2019 – 2020 </p>
 
-**Gene set enrichment analysis.** Finding out biological pathways in mice that are associated with several drug treatments.
+**Gene set enrichment analysis** <br />
+- Finding out biological pathways in mice that are associated with several drug treatments.
+<p style='text-align: right;'> 2018 </p>
 
 
 ## **PUBLICATIONS**
 ---
-**First Author of a Nat. Commun. paper.** 
+**First Author of a Nat. Commun. paper** 
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 
 
 ## **WORKING EXPERIENCE**
 ---
-**Guan’s lab at the University of Michigan,** Ann Arbor, MI. <br />
-- Currently, I am a research associator in this lab.                       
-<p style='text-align: right;'> (04/2020 - Present) </p>
+**Guan’s lab at the University of Michigan,** Ann Arbor, MI <br />
+- Research associator                       
+<p style='text-align: right;'> April 2020 - Present </p>
 
-**Kid Castle,** Wenzhou, Zhejiang, China. <br />
-- I had been an English tutor in an educational institution called Kid Castle for three months.                       
-<p style='text-align: right;'> (09/2017 - 12/2017) </p>
+**Kid Castle,** Wenzhou, Zhejiang, China <br />
+- Taught basic English grammar and pronunciation
+- Supported other teachers to manage classes  
+- Graded student’s assignments                   
+<p style='text-align: right;'> Sep. 2017 – Dec. 2017 </p>
 
-**Zhejiang Dongou Diagnostic Reagent Limited Company,** Wenzhou, Zhejiang, China. <br />
-- I had an internship in a company called Zhejiang Dongou Diagnostic Reagent Limited Company, which locates at Wenzhou. My responsibility was managing the experiment data.                       
-<p style='text-align: right;'> (06/2017 - 07/2017) </p>
+**Zhejiang Dongou Diagnostic Reagent Limited Company,** Wenzhou, Zhejiang, China <br />
+- Managed the experiment data                       
+<p style='text-align: right;'> June 2017 – July 2017 </p>
 
-**Youshare,** Hangzhou, Zhejiang, China. <br />
-- I had an internship in a health management company called Youshare. My job was teaching senior people how to use smartphones or computers to access our company's products and introducing our products to customers.                       
-<p style='text-align: right;'> (08/2016 - 09/2016) </p>
+**Youshare,** Hangzhou, Zhejiang, China <br />
+- Taught senior people how to use smartphones or computers to access Youshare’s applications
+- Introduced Yourshare’s health care products to new customers
+- Assisted manager in arranging product conference                  
+<p style='text-align: right;'> Aug. 2016 – Sep. 2016 </p>
 
 
 ## **SKILLS** 
@@ -62,11 +76,16 @@ title: ''
 
 ## **ACTIVITIES**
 ---
-I had a chance to be a volunteer in a high school summer campaign. I was in charge of student life and recording their activities.
+**Wenzhou high school summer campaign,** Wenzhou, Zhejiang, China
+Volunteer
+- Recorded students’ activities with camera and made a video for them
+<p style='text-align: right;'> Aug. 2017 </p>
 
-When I was in the college, I also found a club called Food Recipe Club with my friends. The club's purpose was to help members learn about other countries' food cultures and have better diets.
-
-I had done two more volunteer activities before, one was helping cleaners clean the ground of our community, and another one was assisting a public service organization to distribute free tea to people in summer.
+**Food Recipe Club,** Green River College, Auburn, WA
+Vice minister
+- The club's purpose was to help members learn about other countries' food cultures and have better diets
+- Collected food recipes from members
+- Organized cooking events 
 
 
 
