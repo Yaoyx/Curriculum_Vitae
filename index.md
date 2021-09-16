@@ -18,23 +18,24 @@ title: ''
 ## **RESEARCH EXPERIENCE**
 ---
 **Tumor heterogeneity** <br />
-- We use FastClone to explore the causation of polyclonal tumor and metastatic cancer. The manuscript is being written currently. 
+- Find the driving force causes the formation of multi-clone tumor, and the manuscript is in the final revision stage
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Chemical properties transformation** <br />
-- Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound.
+- Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Drug response prediction** <br />
-- Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model.
+- Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model
 <p style='text-align: right;'> 2020 </p>
 
 **Tumor heterogeneity** <br />
-- Our lab developed a tool called FastClone for reconstruct tumor phylogeny and used this tool to further understand tumor heterogeneity.
+- Developed a tool called **FastClone** for reconstruct tumor phylogeny 
+- FastClone achieves approximately 100-fold acceleration in computation for both simulated and 15 patient data compared to other tools
 <p style='text-align: right;'> 2019 – 2020 </p>
 
 **Gene set enrichment analysis** <br />
-- Finding out biological pathways in mice that are associated with several drug treatments.
+- Finding out biological pathways in mice that are associated with several drug treatments
 <p style='text-align: right;'> 2018 </p>
 
 
@@ -47,14 +48,15 @@ title: ''
 ## **SKILLS** 
 ---
 **Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
-**Language:** Chinese, English <br />
+**Language:** Chinese (High level), English (High level), Wenzhounese (Chinese dialect, High level) <br />
 **Instruments:** Tenor saxophone, Guitar
 
 
 ## **WORKING EXPERIENCE**
 ---
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI <br />
-- Research associator                       
+- Conducted my own independent project 
+- Cooperated with other labs               
 <p style='text-align: right;'> April 2020 - Present </p>
 
 **Kid Castle,** Wenzhou, Zhejiang, China <br />
@@ -64,7 +66,7 @@ title: ''
 <p style='text-align: right;'> Sep. 2017 – Dec. 2017 </p>
 
 **Zhejiang Dongou Diagnostic Reagent Limited Company,** Wenzhou, Zhejiang, China <br />
-- Managed the experiment data                       
+- Managed the data of triglyceride and glucose level, which are produced by Hitachi H7180 Clinical Analyzer               
 <p style='text-align: right;'> June 2017 – July 2017 </p>
 
 **Youshare,** Hangzhou, Zhejiang, China <br />
