@@ -55,21 +55,25 @@ title: ''
 ## **WORKING EXPERIENCE**
 ---
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI <br />
+*Research Associator*
 - Conducted my own independent project 
 - Cooperated with other labs               
 <p style='text-align: right;'> April 2020 - Present </p>
 
 **Kid Castle,** Wenzhou, Zhejiang, China <br />
+*English Tutor*
 - Taught basic English grammar and pronunciation
 - Supported other teachers to manage classes  
 - Graded student’s assignments                   
 <p style='text-align: right;'> Sep. 2017 – Dec. 2017 </p>
 
 **Zhejiang Dongou Diagnostic Reagent Limited Company,** Wenzhou, Zhejiang, China <br />
+*Surveyor Assistant*
 - Managed the data of triglyceride and glucose level, which are produced by Hitachi H7180 Clinical Analyzer               
 <p style='text-align: right;'> June 2017 – July 2017 </p>
 
 **Youshare,** Hangzhou, Zhejiang, China <br />
+*Salesman*
 - Taught senior people how to use smartphones or computers to access Youshare’s applications
 - Introduced Yourshare’s health care products to new customers
 - Assisted manager in arranging product conference                  
@@ -78,13 +82,13 @@ title: ''
 
 ## **ACTIVITIES**
 ---
-**Wenzhou high school summer campaign,** Wenzhou, Zhejiang, China
-Volunteer
+**Wenzhou high school summer campaign,** Wenzhou, Zhejiang, China <br />
+*Volunteer*
 - Recorded students’ activities with camera and made a video for them
 <p style='text-align: right;'> Aug. 2017 </p>
 
 **Food Recipe Club,** Green River College, Auburn, WA
-Vice minister
+*Vice minister*
 - The club's purpose was to help members learn about other countries' food cultures and have better diets
 - Collected food recipes from members
 - Organized cooking events 
