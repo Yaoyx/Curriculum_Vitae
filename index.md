@@ -48,7 +48,9 @@ title: ''
 ## **SKILLS** 
 ---
 **Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
+<br />
 **Language:** Chinese (High level), English (High level), Wenzhounese (Chinese dialect, High level) <br />
+<br />
 **Instruments:** Tenor saxophone, Guitar
 
 
@@ -87,7 +89,7 @@ title: ''
 - Recorded students’ activities with camera and made a video for them
 <p style='text-align: right;'> Aug. 2017 </p>
 
-**Food Recipe Club,** Green River College, Auburn, WA
+**Food Recipe Club,** Green River College, Auburn, WA <br />
 *Vice minister*
 - The club's purpose was to help members learn about other countries' food cultures and have better diets
 - Collected food recipes from members
