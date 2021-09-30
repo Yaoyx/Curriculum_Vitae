@@ -83,7 +83,7 @@ title: ''
 <p style='text-align: right;'> Aug. 2016 – Sep. 2016 </p>
 
 
-## **ACTIVITIES**
+## **ACTIVITIES & LEADERSHIP**
 ---
 **Wenzhou high school summer campaign,** Wenzhou, Zhejiang, China <br />
 *Volunteer*
