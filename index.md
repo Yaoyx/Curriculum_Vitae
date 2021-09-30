@@ -22,7 +22,7 @@ title: ''
 - Find the driving force causes the formation of multi-clone tumor, and the manuscript is in the final revision stage
 <p style='text-align: right;'> 2020 – Present </p>
 
-**Chemical properties transformation,** , Guan’s lab at University of Michigan <br />
+**Chemical properties transformation,** Guan’s lab at University of Michigan <br />
 - Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound
 <p style='text-align: right;'> 2020 – Present </p>
 
