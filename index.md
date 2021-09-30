@@ -23,11 +23,11 @@ title: ''
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Chemical properties transformation,** Guan’s lab at University of Michigan <br />
-- Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound
+- Train a graph conditional variational autoencoder model that can transform chemical properties by generating an analog that is based on graphs and properties  of known compounds
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Drug response prediction,** Dr. Wenjun Ju’s lab at University of Michigan (cooperation) <br />
-- Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model
+- Use SHARP to find out biomarkers that are associated with renal response to Atrasentan drug, and select a machine learning model with high accuracy
 <p style='text-align: right;'> 2020 </p>
 
 **Tumor heterogeneity,** Guan’s lab at University of Michigan <br />
@@ -36,7 +36,7 @@ title: ''
 <p style='text-align: right;'> 2019 – 2020 </p>
 
 **Gene set enrichment analysis,** Dr. Lisa Sharkey‘s lab at University of Michigan (cooperation) <br />
-- Finding out biological pathways in mice that are associated with several drug treatments
+- Use WGCNA to find out biological pathways in mice that are associated with anti-aging treatments
 <p style='text-align: right;'> 2018 </p>
 
 
