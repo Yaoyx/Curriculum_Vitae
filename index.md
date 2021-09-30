@@ -40,7 +40,7 @@ title: ''
 <p style='text-align: right;'> 2018 </p>
 
 
-## **PUBLICATION**
+## **PUBLICATIONS**
 ---
 **First Author of a Nat. Commun. paper** 
 - Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
