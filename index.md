@@ -95,6 +95,7 @@ title: ''
 - The club's purpose was to help members learn about other countries' food cultures and have better diets
 - Collected food recipes from members
 - Organized cooking events 
+<p style='text-align: right;'> Mar. 2016 – April 2017 </p>
 
 
 
