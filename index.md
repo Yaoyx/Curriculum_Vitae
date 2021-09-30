@@ -6,11 +6,14 @@ title: ''
 ## **EDUCATION** 
 ---
 **University of Michigan,** Ann Arbor, MI <br />
-*Master’s degree in Bioinformatics*                                               <p style='text-align: right;'> Sep. 2019 – April 2020 </p>
+*Master’s degree in Bioinformatics*                                               
+<p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
-*Bachelor’s degree in Life Science Informatics*                                   <p style='text-align: right;'> Jan. 2018 – June 2019 </p>
+*Bachelor’s degree in Life Science Informatics*                                   
+<p style='text-align: right;'> Jan. 2018 – June 2019 </p>
 
-**Green River College,** Auburn, WA                                               <p style='text-align: right;'> Sep. 2015 – June 2017 </p>
+**Green River College,** Auburn, WA                                               
+<p style='text-align: right;'> Sep. 2015 – June 2017 </p>
 
 
 ## **RESEARCH EXPERIENCE**
