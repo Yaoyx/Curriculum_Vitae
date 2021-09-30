@@ -61,4 +61,7 @@ plugins:
 # theme: minima
 remote_theme: kssim/ap
 
+# Google Analytics
+google_analytics: G-1SVKELZLEM
+
 
