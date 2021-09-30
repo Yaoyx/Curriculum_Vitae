@@ -5,7 +5,7 @@ title: ''
 
 ## **EDUCATION** 
 ---
-**University of Michigan,** Ann Arbor, MI 
+**University of Michigan,** Ann Arbor, MI <br />
 *Master’s degree in Bioinformatics*                                               
 <p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
