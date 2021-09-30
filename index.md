@@ -5,10 +5,11 @@ title: ''
 
 ## **EDUCATION** 
 ---
-**University of Michigan,** Ann Arbor, MI. Master’s degree in Bioinformatics                                               
+**University of Michigan,** Ann Arbor, MI 
+*Master’s degree in Bioinformatics*                                               
 <p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
-**University of Michigan,** Ann Arbor, MI. Bachelor’s degree in Life Science Informatics                                                                                      
+*Bachelor’s degree in Life Science Informatics*                                                                                      
 <p style='text-align: right;'> Jan. 2018 – June 2019 </p>
 
 **Green River College,** Auburn, WA                       
@@ -17,24 +18,24 @@ title: ''
 
 ## **RESEARCH EXPERIENCE**
 ---
-**Tumor heterogeneity** <br />
+**Tumor heterogeneity,** Guan’s lab at University of Michigan <br />
 - Find the driving force causes the formation of multi-clone tumor, and the manuscript is in the final revision stage
 <p style='text-align: right;'> 2020 – Present </p>
 
-**Chemical properties transformation** <br />
+**Chemical properties transformation,** , Guan’s lab at University of Michigan <br />
 - Training an autoencoder model that can transform chemical properties by generating an analog based on the input compound
 <p style='text-align: right;'> 2020 – Present </p>
 
-**Drug response prediction** <br />
+**Drug response prediction,** Dr. Wenjun Ju’s lab at University of Michigan (cooperation) <br />
 - Finding out gene markers for Atrasentan drug response prediction and an appropriate machine learning model
 <p style='text-align: right;'> 2020 </p>
 
-**Tumor heterogeneity** <br />
+**Tumor heterogeneity,** Guan’s lab at University of Michigan <br />
 - Developed a tool called **FastClone** for reconstruct tumor phylogeny 
 - FastClone achieves approximately 100-fold acceleration in computation for both simulated and 15 patient data compared to other tools
 <p style='text-align: right;'> 2019 – 2020 </p>
 
-**Gene set enrichment analysis** <br />
+**Gene set enrichment analysis,** Dr. Lisa Sharkey‘s lab at University of Michigan (cooperation) <br />
 - Finding out biological pathways in mice that are associated with several drug treatments
 <p style='text-align: right;'> 2018 </p>
 
