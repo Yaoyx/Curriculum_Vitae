@@ -48,7 +48,7 @@ title: ''
 
 ## **SKILLS** 
 ---
-**Computer:** Python, R, C++, Adobe Illustrator, Docker <br />
+**Computer:** Python, R, C++, Adobe Illustrator <br />
 <br />
 **Language:** Chinese (High level), English (High level), Wenzhounese (Chinese dialect, High level) <br />
 <br />
