@@ -23,7 +23,7 @@ title: ''
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Chemical properties transformation,** Guan’s lab at University of Michigan <br />
-- Train a graph conditional variational autoencoder model that can transform chemical properties by generating an analog that is based on graphs and properties  of known compounds
+- Build a graph conditional variational autoencoder model that can transform chemical properties by generating an analog that is based on graphs and properties  of known compounds
 <p style='text-align: right;'> 2020 – Present </p>
 
 **Drug response prediction,** Dr. Wenjun Ju’s lab at University of Michigan (cooperation) <br />
