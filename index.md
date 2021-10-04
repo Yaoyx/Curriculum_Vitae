@@ -35,7 +35,7 @@ title: ''
 - FastClone achieves approximately 100-fold acceleration in computation for both simulated and 15 patient data compared to other tools
 <p style='text-align: right;'> 2019 – 2020 </p>
 
-**Gene set enrichment analysis,** Dr. Lisa Sharkey‘s lab at University of Michigan (cooperation) <br />
+**Biological pathway associated with aging,** Dr. Lisa Sharkey‘s lab at University of Michigan (cooperation) <br />
 - Use WGCNA to find out biological pathways in mice that are associated with anti-aging treatments
 <p style='text-align: right;'> 2018 </p>
 
