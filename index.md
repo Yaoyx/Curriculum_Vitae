@@ -6,11 +6,11 @@ title: ''
 ## **EDUCATION** 
 ---
 **University of Michigan,** Ann Arbor, MI <br />
-*Master’s degree in Bioinformatics*
+*Master’s degree in Bioinformatics* <br />
 Courses: Machine & Deep Learning, NLP, Molecular Genetics, Bioinformatics programming skills, Computational Neuroscience
 <p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
-*Bachelor’s degree in Life Science Informatics*
+*Bachelor’s degree in Life Science Informatics* <br />
 Courses: Data Structure & Algorithm, Theoretical Statistics, Linear Algebra, Biochemistry
 <p style='text-align: right;'> Jan. 2018 – June 2019 </p>
 
