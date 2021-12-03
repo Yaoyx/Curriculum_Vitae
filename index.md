@@ -59,12 +59,12 @@ Courses: Data Structure & Algorithm, Theoretical Statistics, Linear Algebra, Bio
 ## **WORKING EXPERIENCE**
 ---
 **Lana Garmire’s lab at the University of Michigan,** Ann Arbor, MI <br />
-*Research Associator*
+*Research Associate*
 - Started to work on a drug repurposing project               
 <p style='text-align: right;'> Oct. 2021 - Present </p>
 
 **Guan’s lab at the University of Michigan,** Ann Arbor, MI <br />
-*Research Associator*
+*Research Associate*
 - Conducted research projects 
 - Cooperated with other labs               
 <p style='text-align: right;'> April 2020 - Sep. 2021 </p>
