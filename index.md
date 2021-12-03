@@ -5,12 +5,12 @@ title: ''
 
 ## **EDUCATION** 
 ---
-**University of Michigan,** Ann Arbor, MI <br />
-*Master’s degree in Bioinformatics* <br />
+**The University of Michigan,** Ann Arbor, MI <br />
+*M.S. in Bioinformatics* <br />
 Courses: Machine & Deep Learning, NLP, Molecular Genetics, Bioinformatics programming skills, Computational Neuroscience
 <p style='text-align: right;'> Sep. 2019 – April 2020 </p>
 
-*Bachelor’s degree in Life Science Informatics* <br />
+*B.S. in Life Science Informatics* <br />
 Courses: Data Structure & Algorithm, Theoretical Statistics, Linear Algebra, Biochemistry
 <p style='text-align: right;'> Jan. 2018 – June 2019 </p>
 
@@ -20,21 +20,21 @@ Courses: Data Structure & Algorithm, Theoretical Statistics, Linear Algebra, Bio
 
 ## **RESEARCH EXPERIENCE**
 ---
-**Tumor heterogeneity (two projects),** Guan’s lab at University of Michigan <br />
+**Tumor heterogeneity (two projects),** Guan’s lab at the University of Michigan <br />
 - Explained a possible driving force (copy number alteration event) that causes the formation of multi-clone tumors with a Pan-Cancer dataset. The manuscript will be submitted as soon as possible after the final revision
 -	Developed a tool called **FastClone** for reconstructing tumor phylogeny. FastClone achieves approximately 100-fold acceleration in computation for both simulated data and 15 patient data compared to other tools. The paper is published in **Nature Communications**
 
 <p style='text-align: right;'> 2019 – 2021 </p>
 
-**Chemical properties transformation,** Guan’s lab at University of Michigan <br />
+**Chemical properties transformation,** Guan’s lab at the University of Michigan <br />
 - Built a framework of graph conditional variational autoencoder that could transform chemical properties by generating an analog based on graphs and properties of known compounds. The crucial idea of my framework was using three decoders to generate chemical bonds, atoms, and chemical properties, respectively
 <p style='text-align: right;'> 2020 – 2021 </p>
 
-**Drug response prediction,** Dr. Wenjun Ju’s lab at University of Michigan (cooperation) <br />
+**Drug response prediction,** Dr. Wenjun Ju’s lab at the University of Michigan (cooperation) <br />
 - Used SHAP to determine biomarkers that are associated with renal response to Atrasentan drug, and selected a machine learning model with the highest AUC score
 <p style='text-align: right;'> 2020 </p>
 
-**Biological pathway associated with aging,** Dr. Lisa Sharkey‘s lab at University of Michigan (cooperation) <br />
+**Biological pathway associated with aging,** Dr. Lisa Sharkey‘s lab at the University of Michigan (cooperation) <br />
 - Used WGCNA and DAVID to find out biological pathways in mice that are associated with anti-aging treatments
 <p style='text-align: right;'> 2018 </p>
 
@@ -42,7 +42,7 @@ Courses: Data Structure & Algorithm, Theoretical Statistics, Linear Algebra, Bio
 ## **PUBLICATIONS**
 ---
 **First Author of a Nat. Commun. paper** 
-- Xiao, Y. et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
+- **Xiao, Y.** et al. FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples. Nat. Commun. 11, 4469 (2020)
 <p><a href="https://www.nature.com/articles/s41467-020-18169-2">Link to this paper</a></p>
 <br />
 
